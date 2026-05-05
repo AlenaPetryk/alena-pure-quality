@@ -11,7 +11,7 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
 ### 🛠 Tech Stack & Skills
 - Testing: Functional, Negative, UI/UX, Regression Testing.
-- Test Design: Decision Tables, Boundary Value Analysis (BVA), Equivalence Partitioning.
+- Test Design: Decision Tables, Boundary Value Analysis (BVA), Equivalence Partitioning, State-.
 - Tools: Google Chrome DevTools, Jira, GitHub, Postman, MySQL.
 - Programming: Java Core (OOP, Collections, Exceptions).
 
@@ -21,4 +21,5 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
 ### 📫 How to reach me
 - LinkedIn: [Your Link]
-- Telegram: @Alena03031996
+- Telegram: https://t.me/Alena03031996
+- email: alenapetryk1990@gmail.com
