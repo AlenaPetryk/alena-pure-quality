@@ -1,28 +1,23 @@
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-  <br />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### 🛠 Стек технологий и инструменты
 
-### 📫 Связаться со мной:
-<p align="left">
-  <a href="https://t.me/Alena03031996">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:alenapetryk1990@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
+![Postman](https://shields.io)
+![MySQL](https://shields.io)
+![Git](https://shields.io)
+![Jira](https://shields.io)
+![Confluence](https://shields.io)
+![Notion](https://shields.io)
+![Java](https://shields.io)
 
+![TestRail](https://shields.io)
+![DevTools](https://shields.io)
+![Charles](https://shields.io)
+![Fiddler](https://shields.io)
+
+### 📫 Контакты
+[![Telegram](https://shields.io)](https://t.me)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:ВАША_ПОЧТА@mail.com)
 
 # Hi there, I'm Alena 👋 
 Junior QA Engineer | Quality Connoisseur | Java Core Learner
