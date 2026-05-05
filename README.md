@@ -1,3 +1,28 @@
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+  <br />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### 📫 Связаться со мной:
+<p align="left">
+  <a href="https://t.me/Alena03031996">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:alenapetryk1990@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
+
 # Hi there, I'm Alena 👋 
 Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
