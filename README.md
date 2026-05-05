@@ -1,24 +1,3 @@
-
-### 🛠 Стек технологий и инструменты
-
-![Postman](https://shields.io)
-![MySQL](https://shields.io)
-![Git](https://shields.io)
-![Jira](https://shields.io)
-![Confluence](https://shields.io)
-![Notion](https://shields.io)
-![Java](https://shields.io)
-
-![TestRail](https://shields.io)
-![DevTools](https://shields.io)
-![Charles](https://shields.io)
-![Fiddler](https://shields.io)
-
-### 📫 Контакты
-[![Telegram](https://shields.io)](https://t.me)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:ВАША_ПОЧТА@mail.com)
-
 # Hi there, I'm Alena 👋 
 Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
