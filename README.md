@@ -15,18 +15,19 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 - Tools: Google Chrome DevTools, Jira, GitHub, Postman, MySQL.
 - Programming: Java Core (OOP, Collections, Exceptions).
 
-### 📁 Featured Projects
+
 ## 🚀 Featured Projects
 
-### [Joom E-Commerce Testing Suite](https://github.com)
-**Full QA cycle for a Joom-like web application.**
+### [Joom E-Commerce Testing] (https://github.com/AlenaPetryk/joom-ecommerce-testing)
 
 *   **Test Documentation:** Created 33 detailed **Test Cases**, a **Regression Checklist**, and a **Bug Registry**.
 *   **Test Design:** Applied **EP, BVA, Decision Tables**, and **State Transition Testing** to optimize coverage.
 *   **Technical Testing:** Used **Chrome DevTools** for mobile emulation (iPhone SE) and identified critical UI/UX and API issues.
 *   **Results:** Identified 8 defects with detailed analysis.
 
-👉 [View Project Repository](https://github.com)
+👉 [View Project Repository](https://github.com/AlenaPetryk/joom-ecommerce-testing)
+
+
 ### 📫 How to reach me
 - LinkedIn: [Your Link]
 - Telegram: https://t.me/Alena03031996
