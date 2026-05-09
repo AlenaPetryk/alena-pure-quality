@@ -1,3 +1,10 @@
+![SQL](https://shields.io)
+![Postman](https://shields.io)
+![Git](https://shields.io)
+![Charles Proxy](https://shields.io)
+![Jira](https://shields.io)
+![Java](https://shields.io)
+
 # Hi there, I'm Alena 👋 
 Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
