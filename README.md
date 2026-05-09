@@ -29,6 +29,6 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
 
 ### 📫 How to reach me
-- LinkedIn: [Your Link]
+- LinkedIn: [https://www.linkedin.com/in/elena-petryk-qa/]
 - Telegram: https://t.me/Alena03031996
 - email: alenapetryk1990@gmail.com
