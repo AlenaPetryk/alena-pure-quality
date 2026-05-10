@@ -24,9 +24,10 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 *   **Technical Testing:** Used **Chrome DevTools** for mobile emulation (iPhone SE) and identified critical UI/UX and API issues.
 *   **Results:** Identified 8 defects with detailed analysis.
 
-### **[Dummy API ](https://github.com/AlenaPetryk/joom-ecommerce-testing)**
+### **[Dummy API Postman Tests](https://github.com/AlenaPetryk/dummy-api-postman-tests)**
 *   **15 Automated Requests**: Covering complete CRUD lifecycles for Users, Posts, and Comments.
 *   **Smart Workflow (E2E)**: Seamless data transfer between requests. IDs from created entities (Users/Posts) are dynamically captured and passed to subsequent Update and Delete operations.
+
 
 
 
