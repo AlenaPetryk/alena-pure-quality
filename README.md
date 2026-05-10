@@ -18,7 +18,7 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 
 ## 🚀 Featured Projects
 
-### [Joom E-Commerce Testing].(https://github.com/AlenaPetryk/joom-ecommerce-testing).
+### **[Joom E-commerce Testing](docs/test-cases/execution-report.md)**
 *   **Test Documentation:** Created 33 detailed **Test Cases**, a **Regression Checklist**, and a **Bug Registry**.
 *   **Test Design:** Applied **EP, BVA, Decision Tables**, and **State Transition Testing** to optimize coverage.
 *   **Technical Testing:** Used **Chrome DevTools** for mobile emulation (iPhone SE) and identified critical UI/UX and API issues.
