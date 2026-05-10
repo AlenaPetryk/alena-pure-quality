@@ -25,7 +25,8 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 *   **Results:** Identified 8 defects with detailed analysis.
 
 ### [dummy-api-postman-tests] (https://github.com/AlenaPetryk/dummy-api-postman-tests)
-
+**15 Automated Requests**: Covering complete CRUD lifecycles for Users, Posts, and Comments.
+*   **Smart Workflow (E2E)**: Seamless data transfer between requests. IDs from created entities (Users/Posts) are dynamically captured and passed to subsequent Update and Delete operations.
 
 
 
