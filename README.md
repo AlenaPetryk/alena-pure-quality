@@ -24,7 +24,7 @@ Junior QA Engineer | Quality Connoisseur | Java Core Learner
 *   **Technical Testing:** Used **Chrome DevTools** for mobile emulation (iPhone SE) and identified critical UI/UX and API issues.
 *   **Results:** Identified 8 defects with detailed analysis.
 
-### [dummy-api-postman-tests] (https://github.com/AlenaPetryk/joom-ecommerce-testing)
+### [dummy-api-postman-tests] (https://github.com/AlenaPetryk/dummy-api-postman-tests)
 
 
 
